@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](www.felpoio.github.io/NLW)
+[Clique aqui para acessar](https://felpoio.github.io/NLW/)
 
 ## Tecnologias
 
